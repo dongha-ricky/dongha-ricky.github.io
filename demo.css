@@ -1,0 +1,22 @@
+html{
+  margin-left:10%; /*margin from left is 10% of the screen*/
+  margin-right:20%;
+  font-size: 1.5em; /*unit=> */
+}
+img{
+  width: 400px;
+  height: 400px;
+}
+p{
+  color:#000000;
+  margin:0;
+}
+h1,h2{
+  margin-bottom:0;
+}
+#no_gongyou{
+  width: 600px;
+}
+.gongyou{
+  height: 700px;
+}
